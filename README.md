@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Wendell J. Bennett 👋</h1>
 
 <p align="center">
   <strong>Aspiring DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD</strong>
